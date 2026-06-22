@@ -9,7 +9,7 @@
 
 1. Open a new **Terminal** window on the Raspberry Pi.
 
-2. Ensure yo are in the 'RQB2' virtual environment, or activate it using:
+2. Ensure you are in the 'RQB2' virtual environment, or activate it using:
 
    ```bash
    source ~/RasQberry-Two/venv/RQB2/bin/activate
