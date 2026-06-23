@@ -1,9 +1,9 @@
 # Qiskit-QCNN
-## Qiskit Quantum Convolution Neural Network Jupyter Notebook
+## Qiskit Quantum Convolution Neural Network: Jupyter Notebook
 
 ---
 
-**Description:** Example code and guides for using with the [RasQberry Two](https://rasqberry.org/) with [Qiskit](https://qiskit-community.github.io/qiskit-machine-learning/tutorials/index.html) 
+**Description:** Example code and guides for using with the [RasQberry Two](https://rasqberry.org/) with [Qiskit Machine Learning](https://github.com/qiskit-community/qiskit-machine-learning/tree/stable/0.9) 
 
 ### Setup Instructions
 
