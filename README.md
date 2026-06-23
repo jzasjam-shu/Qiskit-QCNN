@@ -63,8 +63,9 @@
    
    <img width="998" height="318" alt="image" src="https://github.com/user-attachments/assets/3f05c35e-854e-4eb2-a538-460c3c512c5f" />
 
+---
 
-   You should now see the notebook file contained in this repository (the .ipynb file). Click on one this to open the notebook and run the code examples. 
+### 7.    You should see the notebook file contained in this repository (the .ipynb file). Click on this to open the notebook and run the code examples. 
 
    <img width="1068" height="502" alt="image" src="https://github.com/user-attachments/assets/ae901202-05f2-4d65-bace-40ba68753276" />
 
