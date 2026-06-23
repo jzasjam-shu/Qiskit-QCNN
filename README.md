@@ -48,6 +48,8 @@
    ```bash
    jupyter-notebook
    ```
+   
+   <img width="653" height="95" alt="image" src="https://github.com/user-attachments/assets/43fa31ae-6638-4102-898b-aa9007504bd2" />
 
    <img width="612" height="192" alt="image" src="https://github.com/user-attachments/assets/9bde0c1a-d0c0-45e9-ba2d-34e120934d66" />
 
@@ -63,6 +65,8 @@
 
 
    You should now see the notebook file contained in this repository (the .ipynb file). Click on one this to open the notebook and run the code examples. 
+
+   <img width="1068" height="502" alt="image" src="https://github.com/user-attachments/assets/ae901202-05f2-4d65-bace-40ba68753276" />
 
 ---
 
